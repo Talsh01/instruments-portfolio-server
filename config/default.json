@@ -1,0 +1,11 @@
+{
+    "dbConfig": {
+        "connectionLimit": 10,
+        "database": "sql7354320",
+        "host": "sql7.freemysqlhosting.net",
+        "port": 3306,
+        "user": "sql7354320",
+        "password": "xunpL3RcBE"
+    },
+    "idMaxDigits": 10000000
+}
